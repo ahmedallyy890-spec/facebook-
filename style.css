@@ -60,7 +60,7 @@ img:hover, video:hover, iframe:hover {
 }
 @media (max-width: 550px) {
     nav ul {
-        gap: 1px;
+        gap: 6px;
         justify-content: none;
     }
     .header {
@@ -84,4 +84,5 @@ button:hover {
 button:active {
     transform: scale(1.040);
     background-color: rgb(61, 138, 255);
+
 }
